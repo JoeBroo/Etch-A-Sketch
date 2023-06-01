@@ -10,10 +10,10 @@ divs.forEach((item) => {
 })
 
 //Adds square when button is clicked
-addSquare.addEventListener('click', play);
+addSquare.addEventListener('click', createSquare);
 
 //Creates and add square
-function play() {
+function createSquare() {
     const createdDiv = document.createElement('div');
     createdDiv.style.backgroundColor = 'whitesmoke';
     createdDiv.classList.add('div');
