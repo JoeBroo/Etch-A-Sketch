@@ -18,8 +18,31 @@
     color: white;
     background-color: royalblue;
     height: 25px;
-    width: 150px;
-    margin: 20px;
+    width: 125px;
+    border: none;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.random-color {
+    font-size: 15px;
+    color: white;
+    background-color: rebeccapurple;
+    height: 25px;
+    width: 125px;
+    border: none;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.grid-button {
+    font-size: 15px;
+    color: white;
+    background-color: orange;
+    height: 25px;
+    width: 125px;
+    border: none;;
+    margin-bottom: 20px;
     border-radius: 5px;
 }
 
