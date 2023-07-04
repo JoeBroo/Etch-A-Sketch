@@ -22,6 +22,7 @@
     border: none;
     margin-bottom: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .random-color {
@@ -33,6 +34,7 @@
     border: none;
     margin-bottom: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .grid-button {
@@ -44,8 +46,18 @@
     border: none;;
     margin-bottom: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 h1 {
     text-decoration: underline;
+}
+
+.div2 {
+    color: purple;
+    background-color: aquamarine;
+    border: 2px solid white;
+    padding: 15px;
+    display: flex;
+    flex: auto;
 }
